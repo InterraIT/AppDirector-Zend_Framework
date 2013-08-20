@@ -1,8 +1,7 @@
 #!/bin/bash
 
 export PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-export http_proxy=http://proxy.vmware.com:3128
-export https_proxy=http://proxy.vmware.com:3128
+
 
 # INTERNAL FUNCTIONS
 
