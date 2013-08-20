@@ -1,3 +1,0 @@
-## Parameter
-document_dir=""; // Read only property used to denote httpd document root directory. Type is Computed
-project_name="quickstart" // Name of Project to be created. Customize to according to your need.
