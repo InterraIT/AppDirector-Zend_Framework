@@ -1,3 +1,6 @@
-## Parameter
+#Parameter
+
 document_dir=""; // Read only property used to denote httpd document root directory. Type is Computed
+install_path="/usr/local" # Installation directory of zend framework. Change as per your need.
+zf_url="http://10.140.16.75/artifacts/services/zendFramework/1.11.12/ZendFramework-1.11.12.tar.gz"
 project_name="quickstart" // Name of Project to be created. Customize to according to your need.
